@@ -1,4 +1,5 @@
-
+/*color de fondo: #2e2e2a
+color de hover: #f9a91a*/
 
 body {
   font-family: sans-serif;
@@ -33,8 +34,9 @@ a{
   color: #fff;
   display: block;
 }
-
+/*agregando hoover al contenido de la etiqueta a*/
 a:hover{
   background: #f9a91a;
+
   color: #000;
 }
